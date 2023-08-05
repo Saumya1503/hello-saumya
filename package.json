@@ -1,0 +1,22 @@
+{
+  "name": "hello-saumya",
+  "version": "1.0.0",
+  "description": "Demo Code to learn how to publish npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saumya1503/hello-saumya.git"
+  },
+  "keywords": [
+    "saumya"
+  ],
+  "author": "jainsj2002@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saumya1503/hello-saumya/issues"
+  },
+  "homepage": "https://github.com/Saumya1503/hello-saumya#readme"
+}
